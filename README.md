@@ -9,3 +9,7 @@
 游戏基本功能：
 可以点“新游戏重新开始一局新游戏”
 会记录当前分数和游玩历史最高分数。
+
+<img width="446" height="980" alt="屏幕截图 2026-05-12 164612" src="https://github.com/user-attachments/assets/deefdaef-f60c-4146-8ad5-ebae30685542" />
+<img width="432" height="957" alt="屏幕截图 2026-05-12 170600" src="https://github.com/user-attachments/assets/1cbe1b10-fe4d-4021-8eba-1a325930e38e" />
+<img width="447" height="963" alt="屏幕截图 2026-05-12 170611" src="https://github.com/user-attachments/assets/f55e77df-a625-4bdd-b630-58682f4c470f" />
